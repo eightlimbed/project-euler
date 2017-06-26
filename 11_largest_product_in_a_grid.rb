@@ -105,4 +105,4 @@ end
 greatest_product = [rev_diag(grid), diag(grid), right_left(grid), up_down(grid)].max
 
 p greatest_product
-# => 70600674
+# => 70600674 
