@@ -1,3 +1,8 @@
 # project_euler
-Using Ruby to solve some of the problems on Project Euler (https://projecteuler.net/)
+This repo is for educational purposes. 
+
+It's where I will be storing my solutions to the problems from ProjectEuler (https://projecteuler.net/).
+
 Warning: the solutions are shown in the comments.
+
+Thanks for stopping by :)
